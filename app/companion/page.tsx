@@ -1,8 +1,8 @@
-const companions = () => {
+const companion = () => {
   return (
     <div>comp
     </div>
   )
 }
 
-export default companions
+export default companion

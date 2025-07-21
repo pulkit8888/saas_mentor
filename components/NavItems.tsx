@@ -8,7 +8,6 @@ const navItems = [
   { label: "Home", href: "/" },
   { label: "Companions", href: "/companion" },
   { label: "My Journey", href: "my-journey" },
-  { label: "Sign-in", href: "sign-in" },
 ];
 
 const NavItems = () => {
